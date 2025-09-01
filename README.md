@@ -1,52 +1,93 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Sup, I'm Bambú Aleman 👋
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-luis-villa/?locale=en_US)
 
-<p align="left">My name is Bambú Eduardo Aleman and I'm a Junior Fullstack Developer from Mar del Plata, Argentina.</p>
 
-###
+I'm a **Junior Software Developer** based in Buenos Aires, Argentina.
+I have +1 year of experience crafting full-stack solutions.
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🚀 About Me
 
-<p align="left">
-✨ Turning coffee into code since 2024<br>
-📚 I'm currently learning advanced Node.js, API integrations, and CI/CD basics<br>
-🎯 Goals: Keep growing as a developer while building user-friendly, impactful applications
-</p>
+I consider myself a problem-solver. I'm passionate about creating elegant, impactful, and well-crafted solutions to real-world challenges. 
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🔧 Technical Skills
 
-###
+### **Main languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="astro logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+## **Now learning**
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 
-</div>
 
-###
+### **Application Development**
+- **Desktop:** Electron
+- **Web:** Node.js, React.js, GOLang
+- **Cross-Platform:** React Native
 
-<h2 align="left">📫 How to reach me</h2>
+### **Infrastructure & Cloud**
+- **DevOps:** Docker, CI/CD pipelines
+- **Cloud Platforms:** AWS, Azure
+- **Infrastructure as Code:** YAML
+- **Networking:** TCP/IP, HTTP/HTTPS, WebSockets
+- **Source Control:** Git (GitHub, GitLab)
 
-###
+### **Database & Storage**
+- **Relational:** MySQL, PostgreSQL
+- **NoSQL:** MongoDB
 
-<p align="left">
-  <a href="mailto:aleman06b@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail logo" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/bambu-eduardo-aleman-34710b323" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" style="margin-right: 20px;" />
-  </a>
-</p>
+### **Additional Expertise**
+- **System Design:** Services, Microservices Architecture, Event-Driven Design
+- **Software Architecture:** SOLID Principles, REST style
+- **Computer Science:** Algorithms, Data Structures, Genetic Algorithms
+- **Security:** OAuth 2.0, JWT, Cryptography basics
+- **Testing:** Jest
 
+---
+
+## 💼 Professional Experience
+
+### **Full-Stack Software Developer**  
+**Freelance, Buenos Aires**  
+*2024 – Present* 
+- Designed and deployed responsive web applications using **React, Node.js, and Express**.  
+- Built and optimized **RESTful APIs** integrating third-party services and databases like **PostgreSQL** and **MongoDB**.  
+- Applied **clean architecture** principles and implemented reusable components for scalability.  
+- Managed full project lifecycle: from requirements gathering and prototyping to production deployment.  
+- Collaborated with clients to translate business needs into technical requirements.  
+
+---
+
+## 🎓 Education
+
+- **Bachelor's Degree in Computer Science (in progress)**  
+  *Escuela de Educacion Tecnica n°2 Mar del Plata*
+
+---
+
+## 🎯 What I Bring to the Table
+
+- **Technical Vision:** Proven ability to set technical direction and drive architectural decisions.
+- **Team Leadership:** Experienced mentor, coach, and advocate for continuous improvement.
+- **Innovative Problem Solving:** Adept at tackling complex technical challenges with creative solutions.
+
+---
+
+## ⭐ Interesting Projects
+
+Most of my work is proprietary, developed for clients under NDA. However, here are a few ones I'm excited to share publicly:
+
+- **TODO app:**  A simple and intuitive application to manage your daily tasks.
+  [GitHub Repository](https://github.com/bambu-aleman/Todo-App)
+
+---
+
+
+## 📫 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/bambu-eduardo-aleman/?locale=en_US)
+- [Email Me](mailto:aleman06b@gmail.com)
