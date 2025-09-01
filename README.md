@@ -72,7 +72,6 @@ I consider myself a problem-solver. I'm passionate about creating elegant, impac
 ## 🎯 What I Bring to the Table
 
 - **Technical Vision:** Proven ability to set technical direction and drive architectural decisions.
-- **Team Leadership:** Experienced mentor, coach, and advocate for continuous improvement.
 - **Innovative Problem Solving:** Adept at tackling complex technical challenges with creative solutions.
 
 ---
