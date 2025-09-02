@@ -1,6 +1,6 @@
 # Sup, I'm Bambú Aleman 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariano-luis-villa/?locale=en_US)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bambu-eduardo-aleman/?locale=en_US)
 
 
 I'm a **Junior Software Developer** based in Buenos Aires, Argentina.
