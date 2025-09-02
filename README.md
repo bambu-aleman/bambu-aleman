@@ -64,7 +64,7 @@ I consider myself a problem-solver. I'm passionate about creating elegant, impac
 
 ## 🎓 Education
 
-- **Bachelor's Degree in Computer Science (in progress)**  
+- **Technical in Programming (in progress)**  
   *Escuela de Educacion Tecnica n°2 Mar del Plata*
 
 ---
