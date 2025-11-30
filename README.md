@@ -4,7 +4,7 @@
 
 
 I'm a **Junior Software Developer** based in Buenos Aires, Argentina.
-I have +1 year of experience crafting full-stack solutions.
+I have +2 years of experience crafting full-stack solutions.
 
 ---
 
